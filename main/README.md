@@ -1,7 +1,7 @@
-# README Generator
+# README generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-
+This is a short description of my project.
 ## Table of Contents
 * [Description](#description)
 * [Table of Contents](#table-of-contents)
@@ -16,11 +16,11 @@
 npm i
 ```
 ## Usage
-
+Usage information here.
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
 ## Contributing
-
+Contributor information here.
 ## Tests
 ```bash
 npm test
