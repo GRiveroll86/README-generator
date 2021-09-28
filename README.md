@@ -1,7 +1,9 @@
 ## README Generator
-[Demonstration Video](https://watch.screencastify.com/v/xyGgWdEczZhh0kdaq2In)
+[Demonstration Video](https://watch.screencastify.com/v/STAptEMwJdnzJlAXkvBo)
 
-This assignment asked us to create a README generator using node.js and the inquirer module. To begin, the user should fork this repository and pull. Then, open the terminal, navigate to the folder 'main', install node and its dependencies using:
+To begin, users should fork this repository and pull. 
+
+This assignment asked us to create a README generator using node.js and the inquirer module. Once this repository has been forked and pulled, open the terminal, navigate to the folder 'main', install node and its dependencies using:
 ```bash
 npm install
 ```
