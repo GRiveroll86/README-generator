@@ -1,4 +1,4 @@
-# README generator
+# README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
 This is a short description of my project.
